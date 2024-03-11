@@ -1,9 +1,9 @@
-HEY Uri,
+# HEY Uri,
 
-my name is [Almog Klein](https://www.linkedin.com/in/almog-klein/), almogklein.16@gmail.com, 0547456755.
-I followed your instructions and my analysis in the Jupiter notebook called SQL.
+# my name is [Almog Klein](https://www.linkedin.com/in/almog-klein/), almogklein.16@gmail.com, 0547456755.
+# I followed your instructions and my analysis in the Jupiter notebook called SQL.
 
-I look forward to hearing about the continuation of the selection process for the position
+# I look forward to hearing about the continuation of the selection process for the position
 
 
 
